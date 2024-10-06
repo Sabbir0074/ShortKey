@@ -1,0 +1,9 @@
+# ninja log v6
+0	201	1728025817208920344	KeyMac_autogen/timestamp	8ac489937af86631
+0	201	1728025817208920344	KeyMac_autogen/mocs_compilation.cpp	8ac489937af86631
+0	201	1728025817208920344	/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/KeyMac_autogen/timestamp	8ac489937af86631
+0	201	1728025817208920344	/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/KeyMac_autogen/mocs_compilation.cpp	8ac489937af86631
+201	1290	1728025817211920398	CMakeFiles/KeyMac.dir/KeyMac_autogen/mocs_compilation.cpp.o	4fa6836e76afe7bf
+202	1298	1728025817212920416	CMakeFiles/KeyMac.dir/main.cpp.o	d9fd8b3df850cdd8
+202	1507	1728025817212920416	CMakeFiles/KeyMac.dir/mainwindow.cpp.o	28d9e5158d284c91
+1507	1674	1728025818517944101	KeyMac	e7f1980cf60aedbb

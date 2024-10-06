@@ -1,0 +1,9 @@
+/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/KeyMac.dir
+/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/edit_cache.dir
+/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/rebuild_cache.dir
+/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/list_install_components.dir
+/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/install.dir
+/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/install/local.dir
+/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/install/strip.dir
+/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/KeyMac_autogen_timestamp_deps.dir
+/home/sabbirbot/Desktop/Development/QT/KeyMac/build/Desktop_Qt_6_7_3-Debug/CMakeFiles/KeyMac_autogen.dir
